@@ -9,6 +9,6 @@ export const config: ScullyConfig = {
       id: {
         folder: "./mdfiles"
       }
-    }
+    },
   }
 };
